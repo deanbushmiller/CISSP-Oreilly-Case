@@ -32,7 +32,7 @@ A list of content for the OReilly
     <li>Analyze other's answers</li>
 </ol>
 <p>A practice:</p>
-<p>Short practice case:</p>
+<p>Short practice case:</p> https://github.com/deanbushmiller/CISSP-Oreilly-Case/wiki/00-practice-case
 <p>Why we stay away from "lack of..."</p>
 <p>Stop pointing to YOUR solution:&nbsp;<a href="https://www.koganpage.com/article/the-biggest-threats-to-your-change-programme">https://www.koganpage.com/article/the-biggest-threats-to-your-change-programme</a></p>
 <p><br></p>
